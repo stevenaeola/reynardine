@@ -1,6 +1,6 @@
 {
     "name": "reynardine",
-    "description": "A Node-RED Project",
+    "description": "Accompaniment for \"Reynardine\" using node-red-contrib-music",
     "version": "0.0.1",
     "dependencies": {
         "node-red-contrib-music": "1.0.0",
