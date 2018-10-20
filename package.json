@@ -2,7 +2,11 @@
     "name": "reynardine",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-music": "1.0.0",
+        "node-red-contrib-osc": "1.1.0",
+        "node-red-dashboard": "2.9.8"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
